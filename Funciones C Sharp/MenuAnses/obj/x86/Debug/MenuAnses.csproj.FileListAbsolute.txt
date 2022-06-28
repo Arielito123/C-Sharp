@@ -1,0 +1,6 @@
+/home/nicolas/c#/Trabajo en clases/MenuAnses/obj/x86/Debug/MenuAnses.csproj.AssemblyReference.cache
+/home/nicolas/c#/Trabajo en clases/MenuAnses/obj/x86/Debug/MenuAnses.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/Trabajo en clases/MenuAnses/bin/Debug/MenuAnses.exe
+/home/nicolas/c#/Trabajo en clases/MenuAnses/bin/Debug/MenuAnses.pdb
+/home/nicolas/c#/Trabajo en clases/MenuAnses/obj/x86/Debug/MenuAnses.exe
+/home/nicolas/c#/Trabajo en clases/MenuAnses/obj/x86/Debug/MenuAnses.pdb
