@@ -1,0 +1,6 @@
+/home/nicolas/c#/Re Hacer Trabajos y nuevos/Elementos/obj/x86/Debug/Elementos.csproj.AssemblyReference.cache
+/home/nicolas/c#/Re Hacer Trabajos y nuevos/Elementos/obj/x86/Debug/Elementos.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/Re Hacer Trabajos y nuevos/Elementos/bin/Debug/Elementos.exe
+/home/nicolas/c#/Re Hacer Trabajos y nuevos/Elementos/bin/Debug/Elementos.pdb
+/home/nicolas/c#/Re Hacer Trabajos y nuevos/Elementos/obj/x86/Debug/Elementos.exe
+/home/nicolas/c#/Re Hacer Trabajos y nuevos/Elementos/obj/x86/Debug/Elementos.pdb
