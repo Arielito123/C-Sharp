@@ -1,0 +1,12 @@
+/home/nicolas/c#/Trabajo en clases/funcioncalculadora/obj/x86/Debug/funcioncalculadora.csprojAssemblyReference.cache
+/home/nicolas/c#/Trabajo en clases/funcioncalculadora/obj/x86/Debug/funcioncalculadora.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/Trabajo en clases/funcioncalculadora/bin/Debug/funcioncalculadora.exe
+/home/nicolas/c#/Trabajo en clases/funcioncalculadora/bin/Debug/funcioncalculadora.pdb
+/home/nicolas/c#/Trabajo en clases/funcioncalculadora/obj/x86/Debug/funcioncalculadora.exe
+/home/nicolas/c#/Trabajo en clases/funcioncalculadora/obj/x86/Debug/funcioncalculadora.pdb
+/home/nicolas/c#/TP 6/Ejercicio7/obj/x86/Debug/funcioncalculadora.csproj.AssemblyReference.cache
+/home/nicolas/c#/TP 6/Ejercicio7/obj/x86/Debug/funcioncalculadora.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/TP 6/Ejercicio7/obj/x86/Debug/funcioncalculadora.exe
+/home/nicolas/c#/TP 6/Ejercicio7/obj/x86/Debug/funcioncalculadora.pdb
+/home/nicolas/c#/TP 6/Ejercicio7/bin/Debug/funcioncalculadora.exe
+/home/nicolas/c#/TP 6/Ejercicio7/bin/Debug/funcioncalculadora.pdb
